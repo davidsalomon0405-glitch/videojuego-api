@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "Jugador1",
+    "email": "jugador1@gmail.com",
+    "password": "$2b$10$y5SDh6jTxrQYWVipYdXvTOBviUOxSgOnSuf29iOS1j8dajEYRlAnm",
+    "victories": 0,
+    "defeats": 0,
+    "createdAt": "2026-11-26T02:00:42.767Z"
+  },
+  {
+    "id": 2,
+    "username": "Jugador2",
+    "email": "jugador2@gmail.com",
+    "password": "$2b$10$j1vOdGhu8itDhPRbJG8Ow.eIr1wg.Y2wpcALgexOR45p/Bp7gG60a",
+    "victories": 0,
+    "defeats": 0,
+    "createdAt": "2026-11-26T02:34:34.711Z"
+  }
+]

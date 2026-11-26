@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "player1Id": 1,
+    "player2Id": 2,
+    "character1Id": 1,
+    "character2Id": 2,
+    "status": "in_progress",
+    "currentTurn": 1,
+    "winnerId": null,
+    "createdAt": "2026-11-26T02:26:23.829Z",
+    "defendingPlayerId": null,
+    "character1Health": 135,
+    "character2Health": 85
+  }
+]

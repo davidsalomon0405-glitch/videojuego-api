@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "name": "Guerrero Alfa",
+    "class": "warrior",
+    "level": 1,
+    "health": 150,
+    "maxHealth": 150,
+    "attack": 25,
+    "defense": 20,
+    "speed": 10,
+    "createdAt": "2026-11-26T02:21:15.043Z"
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "name": "Mago Oscuro",
+    "class": "mage",
+    "level": 1,
+    "health": 100,
+    "maxHealth": 100,
+    "attack": 35,
+    "defense": 10,
+    "speed": 15,
+    "createdAt": "2026-11-26T02:37:11.264Z"
+  }
+]
